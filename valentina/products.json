@@ -1,0 +1,49 @@
+{
+	"products": [
+		{
+			"name": "Camiseta Masculina",
+			"price": "19.99",
+			"options": [
+				{
+					"Tamanho": "P,M,G,GG"
+				},
+				{
+					"Cor": "Azul,Branca,Rosa"
+				},
+				{
+					"OneOfAKind": true
+				}
+			],
+			"image": "imagens/masculina.svg",
+			"description": "Disponível nas cores: Azul, Branca e Rosa."
+		},
+		{
+			"name": "Camiseta Feminina",
+			"price": "19.99",
+			"options": [
+				{
+					"Tamanho": "P,M,G,GG"
+				},
+				{
+					"Cor": "Rosa,Branca,Azul"
+				},
+				{
+					"OneOfAKind": true
+				}
+			],
+			"image": "imagens/feminina.svg",
+			"description": "Disponível nas cores: Azul, Branca e Rosa."
+		},
+		{
+			"name": "Máscara",
+			"price": "1.00",
+			"options": [
+				{
+					"Tamanho": "Único"
+				}
+			],
+			"image": "imagens/mascara.svg",
+			"description": "Proteja-se! #FiqueEmCasa"
+		}
+	]
+}
